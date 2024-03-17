@@ -27,6 +27,12 @@ body {
 /* h1 {
     font-family: sans-serif;
 } */
+.plan__list {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
 .plan {
   display: inline-block;
   text-align: center;
@@ -73,7 +79,6 @@ body {
 .plan--highlighted .plan__titles {
   color: white;
 }
-
 
 #key-features {
   background-color: red;
